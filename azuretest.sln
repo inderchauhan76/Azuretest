@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "azure.cloud", "azure.cloud\azure.cloud.ccproj", "{51ADB806-C050-48BD-87BD-E312B96E54A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure.web", "azure.web\azure.web.csproj", "{6CA7B487-2626-4633-8283-3034160799DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51ADB806-C050-48BD-87BD-E312B96E54A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51ADB806-C050-48BD-87BD-E312B96E54A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51ADB806-C050-48BD-87BD-E312B96E54A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51ADB806-C050-48BD-87BD-E312B96E54A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA7B487-2626-4633-8283-3034160799DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA7B487-2626-4633-8283-3034160799DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA7B487-2626-4633-8283-3034160799DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA7B487-2626-4633-8283-3034160799DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
